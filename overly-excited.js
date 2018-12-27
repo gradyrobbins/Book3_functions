@@ -35,4 +35,4 @@ function addExcitement (theWordArray, character) {
 }
 
 // Invoke the function and pass in the array
-addExcitement(sentence, "*")
+addExcitement(sentence, "!")
