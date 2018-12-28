@@ -1,2 +1,5 @@
-Cookout:
-Your task is to iterate over the array of uncookedFood and invoke the function for each item so that the cookedFood array contains all of the items after they are cooked.
+
+# exercises from Book3/chapter3
+## chickenmonkey
+## take a number/battle of the bands
+## Cookout
